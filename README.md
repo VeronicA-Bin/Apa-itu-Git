@@ -6,7 +6,7 @@
 
 ## Visualisasi
 
-![Screenshot](link-screenshot-kamu.png)
+![Screenshot](CaptureomgNAMAAnggota.PNG)
 
 
 ---
