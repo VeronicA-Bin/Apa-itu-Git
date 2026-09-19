@@ -1,5 +1,3 @@
-# Apa-itu-Git
-bncc.in/STUDYCASEGITREADY2.0
 # [HIDUP JOKOWI]
 
 Deskripsi singkat 1-2 kalimat tentang project ini (contoh: "DevCard adalah halaman kartu profil interaktif dengan fitur dark mode dan like counter, dibuat sebagai study case Workshop Git & GitHub.")
